@@ -1,0 +1,6 @@
+ip,port,username,password,protocol,notes
+192.168.1.1,8080,proxy_user1,proxy_pass1,http,US proxy
+192.168.1.2,8080,proxy_user2,proxy_pass2,http,EU proxy
+192.168.1.3,8080,proxy_user3,proxy_pass3,http,Asia proxy
+192.168.1.4,8080,proxy_user4,proxy_pass4,http,Canada proxy
+192.168.1.5,8080,proxy_user5,proxy_pass5,http,UK proxy
